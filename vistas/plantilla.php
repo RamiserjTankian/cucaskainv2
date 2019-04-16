@@ -1,6 +1,5 @@
 <?php
 //AL FINALIZAR LA CREACION DEL SITIO SE DEBEN ELIMINAR TODOS LOS COMENTARIOS DE HTML!!!
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +12,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
  
      <!-- Site Metas -->
-    <title>Greatseo - Bootstrap 4 Responsive HTML5 Template</title>  
+    <title>Cucas Kain</title>  
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
