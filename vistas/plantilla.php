@@ -25,7 +25,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="vistas/css/bootstrap.min.css">
     <!-- Site CSS -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="vistas/style.css">
     <!-- ALL VERSION CSS -->
     <link rel="stylesheet" href="vistas/css/versions.css">
     <!-- Responsive CSS -->
@@ -60,12 +60,6 @@ if (isset($_GET["ruta"])) {
     include "modulos/header.php";
 
     /*=============================================
-    MENU
-    =============================================*/
-
-    include "modulos/menu.php";
-
-    /*=============================================
     CONTENIDO
     =============================================*/
 
@@ -85,7 +79,6 @@ if (isset($_GET["ruta"])) {
     include "modulos/footer.php";
 } else { //Si no existe la ruta, incluye directamente la esctructura de la web en la pagina de inicio.
     include "modulos/header.php";
-    include "modulos/menu.php";
     include "modulos/inicio.php";
     include "modulos/footer.php";
 }
@@ -93,6 +86,61 @@ if (isset($_GET["ruta"])) {
     echo '</div>'; 
     
   ?>
- 
+ 	<script type="text/javascript">	
+			$(function() {
+			
+				var Page = (function() {
+
+					var $nav = $( '#nav-dots > span' ),
+						slitslider = $( '#slider' ).slitslider( {
+							onBeforeChange : function( slide, pos ) {
+
+								$nav.removeClass( 'nav-dot-current' );
+								$nav.eq( pos ).addClass( 'nav-dot-current' );
+
+							}
+						} ),
+
+						init = function() {
+
+							initEvents();
+							
+						},
+						initEvents = function() {
+
+							$nav.each( function( i ) {
+							
+								$( this ).on( 'click', function( event ) {
+									
+									var $dot = $( this );
+									
+									if( !slitslider.isActive() ) {
+
+										$nav.removeClass( 'nav-dot-current' );
+										$dot.addClass( 'nav-dot-current' );
+									
+									}
+									
+									slitslider.jump( i + 1 );
+									return false;
+								
+								} );
+								
+							} );
+
+						};
+
+						return { init : init };
+
+				})();
+
+				Page.init();
+			
+			});
+		</script>
+		
+		<script>
+			tippy('.btn-a')
+		</script>
 </body>
 </html>
