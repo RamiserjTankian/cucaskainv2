@@ -2495,7 +2495,7 @@ body.seo_version .footer-links a:hover {
 }
 
 .social-md li a.fb {
-    background: #9c3900;
+    background: #000000;
     display: block;
     color: #ffffff !important;
     padding: 5px 15px;
@@ -2509,21 +2509,21 @@ body.seo_version .footer-links a:hover {
 }
 
 .social-md li a.tw {
-    background: #ff5e00;
+    background: #000000;
     display: block;
     color: #ffffff !important;
     padding: 5px 15px;
 }
 
 .social-md li a.dr {
-    background: #ee902f;
+    background: #000000;
     display: block;
     color: #ffffff !important;
     padding: 5px 15px;
 }
 
 .social-md li a.pi {
-    background: #ff5e00c2;
+    background: #000000;
     display: block;
     color: #ffffff !important;
     padding: 5px 15px;

@@ -36,7 +36,7 @@ body.seo_version .nav-pills > li.active > a:hover,
 body.seo_version .icon-wrapper:hover i,
 body.seo_version .grd1 {
     color: #ffffff;
-    background: #0594a9;    
+    background: #ff5e00;    
 }
 
 
@@ -63,7 +63,7 @@ body.seo_version .icon_wrap{
 
 
 body.seo_version .navbar-nav span {
-    color: #ffda44 !important;
+    color: #ee902f !important;
 }
 
 body.seo_version .seo-services .col-md-3:hover img {
@@ -126,7 +126,7 @@ body.seo_version .section.db,
 body.seo_version .dmtop,
 body.seo_version .dmtop,
 body.seo_version .affix {
-    background-color: #0594a9;
+    background-color: #ff5e00;
 }
 
 
@@ -197,7 +197,7 @@ body.seo_version .contact_form {
 
 body.seo_version .owl-next i,
 body.seo_version .owl-prev i {
-    background-color: #0594a9;
+    background-color: #ff5e00;
 	color: #ffffff;
 }
 
@@ -216,7 +216,7 @@ body.seo_version .stat-wrap h3 {
 }
 
 body.seo_version .stat-wrap .rating i {
-    color: #eabe12;
+    color: #ee902f;
 }
 
 body.seo_version .stat-wrap p {
@@ -376,19 +376,19 @@ body.seo_version .how-its-work .hc p.lead {
 }
 
 body.seo_version .hc.colon1 {
-    background-color: #0d61d0;
+    background-color: #ff5100;
 }
 
 body.seo_version .hc.colon2 {
-    background-color: #0053c2;
+    background-color: #ff5100;
 }
 
 body.seo_version .hc.colon3 {
-    background-color: #0049b8;
+    background-color: #ff5100;
 }
 
 body.seo_version .hc.colon4 {
-    background-color: #003ead;
+    background-color: #ff5100;
 }
 
 body.seo_version .app-features li {

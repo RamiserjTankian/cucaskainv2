@@ -41,7 +41,7 @@
     <!-- ALL PLUGINS -->
 	<script src="vistas/js/tippy.all.min.js"></script>
     <script src="vistas/js/custom.js"></script>
-	
+	<script src="vistas/js/portfolio.js"></script>
 	<script src="vistas/js/jquery.ba-cond.min.js"></script>
 	<script src="vistas/js/jquery.slitslider.js"></script>
 </head>
