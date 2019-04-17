@@ -5,9 +5,9 @@
 			<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
 				<div class="sl-slide-inner">
 					<div class="bg-img bg-img-1"></div>
-					<h2>Best free SEO friendly website</h2>
-					<blockquote><p>Etiam felis elit, mollis posuere accumsan ac, dignissim a ligula. Nam ullamcorper ornare tortor sed dapibus. Aliquam ultrices vestibulum sodales. Aenean efficitur massa vel tellus dapibus pellentesque. </p>
-					<a href="#" class="bttn-new">Started Today</a>
+					<h2>¿Quiénes somos?</h2>
+					<blockquote><p>Cucas Kain es una empresa líder en el control y eliminación de plagas como lo son ratas, ratones, cucarachas, termitas, garrapatas, mosquitos, arañas, entre otros tipo de plagas...</p>
+					<a href="nosotros" class="bttn-new">Saber más</a>
 					</blockquote>
 				</div>
 			</div>
@@ -15,9 +15,9 @@
 			<div class="sl-slide" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
 				<div class="sl-slide-inner">
 					<div class="bg-img bg-img-2"></div>
-					<h2>Marketing Website</h2>
-					<blockquote><p>Etiam felis elit, mollis posuere accumsan ac, dignissim a ligula. Nam ullamcorper ornare tortor sed dapibus. Aliquam ultrices vestibulum sodales. Aenean efficitur massa vel tellus dapibus pellentesque. </p>
-					<a href="#" class="bttn-new">Started Today</a>
+					<h2>Nuestros servicios</h2>
+					<blockquote><p>Los servicios que ofrece Cucas Kain son altamente controlados por nuestro personal capacitado, así mismo los productos que se utilizan son de alta calidad y no son dañinos para salud...</p>
+					<a href="servicios" class="bttn-new">Saber más</a>
 					</blockquote>
 				</div>
 			</div>
@@ -25,9 +25,9 @@
 			<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
 				<div class="sl-slide-inner">
 					<div class="bg-img bg-img-3"></div>
-					<h2>Search engine, Analytics, Traffic</h2>
-					<blockquote><p>Etiam felis elit, mollis posuere accumsan ac, dignissim a ligula. Nam ullamcorper ornare tortor sed dapibus. Aliquam ultrices vestibulum sodales. Aenean efficitur massa vel tellus dapibus pellentesque. </p>
-					<a href="#" class="bttn-new">Started Today</a>
+					<h2>Las plagas comúnes y sus consecuencias</h2>
+					<blockquote><p>Se conoce como plaga a la irrupción súbita y multitudinaria de insectos, animales u otros organismos de una misma especie que provoca diversos tipos de consecuencias...</p>
+					<a href="plagas" class="bttn-new">Saber más</a>
 					</blockquote>
 				</div>
 			</div>
@@ -35,9 +35,9 @@
 			<div class="sl-slide" data-orientation="vertical" data-slice1-rotation="-5" data-slice2-rotation="25" data-slice1-scale="2" data-slice2-scale="1">
 				<div class="sl-slide-inner">
 					<div class="bg-img bg-img-4"></div>
-					<h2>Social Networking</h2>
-					<blockquote><p>Etiam felis elit, mollis posuere accumsan ac, dignissim a ligula. Nam ullamcorper ornare tortor sed dapibus. Aliquam ultrices vestibulum sodales. Aenean efficitur massa vel tellus dapibus pellentesque. </p>
-					<a href="#" class="bttn-new">Started Today</a>
+					<h2>Contáctanos</h2>
+					<blockquote><p>Para tener más información con respecto a nuestros productos o agendar una cita para brindarte un servicio puedes contactarnos...</p>
+					<a href="contacto" class="bttn-new">Saber más</a>
 					</blockquote>
 				</div>
 			</div>

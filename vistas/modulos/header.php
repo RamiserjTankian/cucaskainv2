@@ -8,7 +8,7 @@
 				<div class="ball"></div>
 				<div class="ball"></div>
 			</div>
-			<div class="text">LOADING...</div>
+			<div class="text">Cargando...</div>
 		</div>
 	</div>
     
@@ -16,7 +16,7 @@
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">
 			<div class="container">
 				<a class="navbar-brand" href="inicio">
-                <span style="color: #FF7300;"><i class="fas fa-bug fa-2x"></i> <span style="font-size: 1.33em;"> CUCAS KAIN</span></span>
+                <span style="color: #FF7300;"><img src="vistas/images/logo-cucas-kain.png" alt="SVG" width="70" height="70"></i> <span style="font-size: 1.33em;">Cucas Kain</span></span>
 				</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-seo" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
 				  <span class="navbar-toggler-icon"></span>
