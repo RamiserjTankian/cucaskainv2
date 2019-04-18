@@ -1,22 +1,3 @@
-<div class="all-page-title" style="background-image:url(images/pattern-4.png);">
-		<!--Page -->
-        <div class="page-info">
-            <div class="container">
-            	<div class="inner-container">
-                    <ul class="bread-crumb">
-                        <li><a href="index.html">Home</a></li>
-						<li><i class="fa fa-angle-double-right" aria-hidden="true"></i></li>
-                        <li><span>Case Study</span></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!--End Page-->
-        <div class="container text-center">
-            <h1>Case Study</h1>
-			<p>Mauris ornare tellus nec urna tincidunt, eget posuere velit tempus.</p>
-        </div>
-    </div><!-- end section -->
 
 	<div id="case-study-box" class="section wb">
         <div class="container">
@@ -106,7 +87,7 @@
                     <div class="testi-carousel owl-carousel owl-theme">
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="vistas/images/testi_01.png" alt="" class="img-fluid alignleft">
+                                <img src=".../vistas/images/testi_01.png" alt="" class="img-fluid alignleft">
                                 <h4>James Fernando <small>- Manager of Racer</small></h4>
                             </div>
 							<!-- end testi-meta -->
