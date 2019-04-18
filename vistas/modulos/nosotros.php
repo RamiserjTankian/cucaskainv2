@@ -15,7 +15,7 @@
 				
                 <div class="col-md-6">
                     <div class="post-media wow fadeIn">
-                        <img src="images/about_01.jpg" alt="" class="img-fluid">
+                        <img src="vistas/images/about_01.jpg" alt="" class="img-fluid">
                     </div><!-- end media -->
                 </div><!-- end col -->
                 
@@ -57,7 +57,7 @@
                     <div class="testi-carousel owl-carousel owl-theme">
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_01.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_01.png" alt="" class="img-fluid alignleft">
                                 <h4>James Fernando <small>- Manager of Racer</small></h4>
                             </div>
 							<!-- end testi-meta -->
@@ -70,7 +70,7 @@
 
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_02.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_02.png" alt="" class="img-fluid alignleft">
                                 <h4>Jacques Philips <small>- Designer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -83,7 +83,7 @@
 
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_03.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_03.png" alt="" class="img-fluid alignleft">
                                 <h4>Venanda Mercy <small>- Newyork City</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -95,7 +95,7 @@
                         <!-- end testimonial -->
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_01.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_01.png" alt="" class="img-fluid alignleft">
                                 <h4>James Fernando <small>- Manager of Racer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -108,7 +108,7 @@
 
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_02.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_02.png" alt="" class="img-fluid alignleft">
                                 <h4>Jacques Philips <small>- Designer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -121,7 +121,7 @@
 
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_03.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_03.png" alt="" class="img-fluid alignleft">
                                 <h4>Venanda Mercy <small>- Newyork City</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -140,14 +140,14 @@
         <div class="container">
             <div class="row">
                 <div id="logo-carousel" class="owl-carousel">
-					<div> <img src="images/logo_01.png" alt=""> </div>
-					<div> <img src="images/logo_02.png" alt=""> </div>
-					<div> <img src="images/logo_03.png" alt=""> </div>
-					<div> <img src="images/logo_04.png" alt=""> </div>
-					<div> <img src="images/logo_05.png" alt=""> </div>
-					<div> <img src="images/logo_06.png" alt=""> </div>
-					<div> <img src="images/logo_01.png" alt=""> </div>
-					<div> <img src="images/logo_02.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_01.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_02.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_03.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_04.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_05.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_06.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_01.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_02.png" alt=""> </div>
 				</div>
             </div><!-- end row -->
         </div><!-- end container -->

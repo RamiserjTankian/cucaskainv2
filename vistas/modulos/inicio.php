@@ -69,7 +69,7 @@
 				
                 <div class="col-md-6">
                     <div class="post-media wow fadeIn">
-                        <img src="images/about_01.jpg" alt="" class="img-fluid">
+                        <img src="vistas/images/about_01.jpg" alt="" class="img-fluid">
                     </div><!-- end media -->
                 </div><!-- end col -->
                 
@@ -107,7 +107,7 @@
 			<div class="seo-services row clearfix">
                 <div class="col-md-6 col-xs-12">
 					<div class="why-img-box">
-						<img src="images/why-img-01.jpg" class="img-fluid" alt="" />
+						<img src="vistas/images/why-img-01.jpg" class="img-fluid" alt="" />
 					</div>
                 </div><!-- end col -->
 
@@ -129,7 +129,7 @@
 				
                 <div class="col-md-6 col-xs-12">
 					<div class="why-img-box">
-						<img src="images/why-img-02.jpg" class="img-fluid" alt="" />
+						<img src="vistas/images/why-img-02.jpg" class="img-fluid" alt="" />
 					</div>
                 </div><!-- end col -->
             </div><!-- end how-its-work -->
@@ -149,7 +149,7 @@
 					<div class="text-center">
 						<div class="service-widget">
 							<div class="post-media wow fadeIn">
-								<img src="images/seo_01.png" alt="" class="img-fluid img-rounded">
+								<img src="vistas/images/seo_01.png" alt="" class="img-fluid img-rounded">
 							</div>
 							<h3>Search Engine Optimization</h3>
 							<p>Aliquam sagittis ligula et sem lacinia, ut facilisis enim sollicitudin. Proin nisi est, convallis nec purus vitae, iaculis posuere sapien. Cum sociis natoque.</p>
@@ -159,7 +159,7 @@
 					<div class="text-center">
 						<div class="service-widget">
 							<div class="post-media wow fadeIn">
-								<img src="images/seo_02.png" alt="" class="img-fluid img-rounded">
+								<img src="vistas/images/seo_02.png" alt="" class="img-fluid img-rounded">
 							</div>
 							<h3>Email Marketing</h3>
 							<p>Duis at tellus at dui tincidunt scelerisque nec sed felis. Suspendisse id dolor sed leo rutrum euismod. Nullam vestibulum fermentum erat. It nam auctor. </p>
@@ -169,7 +169,7 @@
 					<div class="text-center">
 						<div class="service-widget">
 							<div class="post-media wow fadeIn">
-								<img src="images/seo_03.png" alt="" class="img-fluid img-rounded">
+								<img src="vistas/images/seo_03.png" alt="" class="img-fluid img-rounded">
 							</div>
 							<h3>Pay Per Click</h3>
 							<p>Etiam materials ut mollis tellus, vel posuere nulla. Etiam sit amet lacus vitae massa sodales aliquam at eget quam. Integer ultricies et magna quis accumsan.</p>
@@ -179,7 +179,7 @@
 					<div class="text-center">
 						<div class="service-widget">
 							<div class="post-media wow fadeIn">
-								<img src="images/seo_04.png" alt="" class="img-fluid img-rounded">
+								<img src="vistas/images/seo_04.png" alt="" class="img-fluid img-rounded">
 							</div>
 							<h3>Website Development</h3>
 							<p>Aliquam sagittis ligula et sem lacinia, ut facilisis enim sollicitudin. Proin nisi est, convallis nec purus vitae, iaculis posuere sapien. Cum sociis natoque.</p>
@@ -189,7 +189,7 @@
 					<div class="text-center">
 						<div class="service-widget">
 							<div class="post-media wow fadeIn">
-								<img src="images/seo_05.png" alt="" class="img-fluid img-rounded">
+								<img src="vistas/images/seo_05.png" alt="" class="img-fluid img-rounded">
 							</div>
 							<h3>Reporting</h3>
 							<p>Duis at tellus at dui tincidunt scelerisque nec sed felis. Suspendisse id dolor sed leo rutrum euismod. Nullam vestibulum fermentum erat. It nam auctor. </p>
@@ -199,7 +199,7 @@
 					<div class="text-center">
 						<div class="service-widget">
 							<div class="post-media wow fadeIn">
-								<img src="images/seo_06.png" alt="" class="img-fluid img-rounded">
+								<img src="vistas/images/seo_06.png" alt="" class="img-fluid img-rounded">
 							</div>
 							<h3>Social Media Marketing</h3>
 							<p>Etiam materials ut mollis tellus, vel posuere nulla. Etiam sit amet lacus vitae massa sodales aliquam at eget quam. Integer ultricies et magna quis accumsan.</p>
@@ -328,7 +328,7 @@
                     <div class="testi-carousel owl-carousel owl-theme">
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_01.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_01.png" alt="" class="img-fluid alignleft">
                                 <h4>James Fernando <small>- Manager of Racer</small></h4>
                             </div>
 							<!-- end testi-meta -->
@@ -341,7 +341,7 @@
 
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_02.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_02.png" alt="" class="img-fluid alignleft">
                                 <h4>Jacques Philips <small>- Designer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -354,7 +354,7 @@
 
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_03.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_03.png" alt="" class="img-fluid alignleft">
                                 <h4>Venanda Mercy <small>- Newyork City</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -366,7 +366,7 @@
                         <!-- end testimonial -->
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_01.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_01.png" alt="" class="img-fluid alignleft">
                                 <h4>James Fernando <small>- Manager of Racer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -379,7 +379,7 @@
 
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_02.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_02.png" alt="" class="img-fluid alignleft">
                                 <h4>Jacques Philips <small>- Designer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -392,7 +392,7 @@
 
                         <div class="testimonial clearfix">
 							<div class="testi-meta">
-                                <img src="images/testi_03.png" alt="" class="img-fluid alignleft">
+                                <img src="vistas/images/testi_03.png" alt="" class="img-fluid alignleft">
                                 <h4>Venanda Mercy <small>- Newyork City</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -411,14 +411,14 @@
         <div class="container">
             <div class="row">
                 <div id="logo-carousel" class="owl-carousel">
-					<div> <img src="images/logo_01.png" alt=""> </div>
-					<div> <img src="images/logo_02.png" alt=""> </div>
-					<div> <img src="images/logo_03.png" alt=""> </div>
-					<div> <img src="images/logo_04.png" alt=""> </div>
-					<div> <img src="images/logo_05.png" alt=""> </div>
-					<div> <img src="images/logo_06.png" alt=""> </div>
-					<div> <img src="images/logo_01.png" alt=""> </div>
-					<div> <img src="images/logo_02.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_01.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_02.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_03.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_04.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_05.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_06.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_01.png" alt=""> </div>
+					<div> <img src="vistas/images/logo_02.png" alt=""> </div>
 				</div>
             </div><!-- end row -->
         </div><!-- end container -->
