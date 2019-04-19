@@ -2180,6 +2180,33 @@ select.mobile-device {
     opacity: 0;
 }
 
+.pd-add {
+    padding: 70px 0px;
+}
+
+.address-item {
+    float: left;
+    text-align: center;
+    margin: 0 11px;
+    padding: 0px 15px;
+    width: 31%;
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.1);
+}
+
+.address-icon {
+    padding: 15px 0px;
+}
+
+.address-icon i {
+    font-size: 38px;
+    color: #393939;
+}
+
+.address-item h3 {
+    font-size: 28px;
+    font-weight: 600;
+    color: rgb(255, 115, 0);
+}
 
 /*# sourceMappingURL=bootstrap-select.css.map */
 
