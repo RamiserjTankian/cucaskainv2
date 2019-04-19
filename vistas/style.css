@@ -2393,7 +2393,7 @@ body.seo_version .footer-links a:hover {
 }
 
 .copyrights {
-    background-color: #333333;
+    background-color: #242323;
     box-sizing: border-box;
     width: 100%;
     text-align: center;
@@ -2475,6 +2475,7 @@ body.seo_version .footer-links a:hover {
 .footer-distributed .footer-company-name a {
     color: #ffffff;
 }
+
 
 .footer-distributed .footer-company-name a:hover {
     color: #ff5e00;
