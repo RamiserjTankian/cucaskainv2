@@ -2,7 +2,7 @@
         <div class="container">
             <div class="footer-distributed">
                 <div class="footer-left">
-                    <p class="footer-company-name">Todos los derechos reservados. &copy; 2019 <a href="inicio">Cucas Kain</a> - Creado por: <a href="http://haztechconsulting.com/">Haztech Consulting</a></p>
+                    <p class="footer-company-name">Todos los derechos reservados. &copy; 2019 <a href="inicio" >CUCAS KAIN</a> - Creado por: <a href="http://haztechconsulting.com/">HAZTECH CONSULTING</a></p>
                 </div>  
             </div>
         </div><!-- end container -->

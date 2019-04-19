@@ -2,7 +2,12 @@
     Version: 1.0
 /****************************************** */
 
-@media only screen and (min-width: 992px) and (max-width: 1199px) {}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	.address-item{
+		width: 30%;
+	}
+}
+
 @media (min-width: 768px) and (max-width: 991px) {
 	.top-navbar .navbar-light .navbar-nav .nav-item::before{
 		display: none;
@@ -82,6 +87,11 @@
 	}
 	.map-box {
 		padding: 40px 15px;
+	}
+	.address-item{
+		width: 100%;
+		margin: 0px;
+		margin-bottom: 30px;
 	}
 }
 @media (max-width: 767px) {
@@ -163,6 +173,11 @@
 	}
 	.map-box {
 		padding: 40px 15px;
+	}
+	.address-item{
+		width: 100%;
+		margin: 0px;
+		margin-bottom: 30px;
 	}
 }
 
@@ -249,5 +264,9 @@
 	.seo_version .sl-slider blockquote p{
 		font-size: 16px;
 	}
+	.address-item{
+		width: 100%;
+		margin: 0px;
+		margin-bottom: 30px;
+	}
 }
-

@@ -166,12 +166,14 @@
     </div><!-- end section -->
 
     <div id="services" class="section lb">
-        <div class="container-fluid">
-			<div class="container">
-				<div class="section-title text-center">
-					<h3>Lema</h3>
-					<p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, quo molestias libero illum adipisci mollitia cupiditate nemo, sunt tempora soluta blanditiis explicabo itaque, quidem praesentium rem repellendus dolorum doloribus iste?</p>
-				</div><!-- end title -->
-            </div><!-- end row -->
-        </div><!-- end container -->
+    <div class="container-fluid">
+		<div class="container">
+			<div class="section-title text-center">
+				<h3>Contáctanos para más información...</h3>
+				<br><br>
+				<a href="contacto" class="bttn-new" style="color: #000000;">Saber más</a>
+			</div><!-- end title -->
+        </div><!-- end row -->
+    </div><!-- end container -->
+	</div><!-- end section -->
 </div><!-- end section -->
