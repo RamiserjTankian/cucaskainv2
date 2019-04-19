@@ -57,8 +57,11 @@
             <div class="row">
 				<div class="col-md-6 m40">
                     <div class="message-box">
-                        <h2>¡Bienvenido a Cucas Kain!</h2>
+                        <center><h2>¡Bienvenido a Cucas Kain!</h2></center>
+						<br>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis illum architecto aut dolor ipsa modi provident alias nostrum labore. Est fugiat obcaecati cumque facere. Magni minima saepe rerum nam error!</p>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quam, ducimus laudantium repellendus maxime quae quos ipsa! Fuga quidem blanditiis sint, quibusdam tenetur voluptatibus nisi, nostrum odio aliquam, architecto provident?</p>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quam, ducimus laudantium repellendus maxime quae quos ipsa! Fuga quidem blanditiis sint, quibusdam tenetur voluptatibus nisi, nostrum odio aliquam, architecto provident?</p>
 						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quam, ducimus laudantium repellendus maxime quae quos ipsa! Fuga quidem blanditiis sint, quibusdam tenetur voluptatibus nisi, nostrum odio aliquam, architecto provident?</p>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
@@ -106,7 +109,7 @@
 			<div class="seo-services row clearfix">
                 <div class="col-md-6 col-xs-12">
 					<div class="why-img-box">
-						<img src="vistas/images/why-img-01.jpg" class="img-fluid" alt="" />
+						<img src="vistas/images/productos.png" class="img-fluid" alt="Productos" />
 					</div>
                 </div><!-- end col -->
 
@@ -126,13 +129,13 @@
 				
                 <div class="col-md-6 col-xs-12">
 					<div class="why-img-box">
-						<img src="vistas/images/why-img-02.jpg" class="img-fluid" alt="" />
+						<img src="vistas/images/personal.jpg" class="img-fluid" alt="Personal" />
 					</div>
 				</div><!-- end col -->
 
 				<div class="col-md-6 col-xs-12">
 					<div class="why-img-box">
-						<img src="vistas/images/why-img-01.jpg" class="img-fluid" alt="" />
+						<img src="vistas/images/certificado.jpg" class="img-fluid" alt="Certificado" />
 					</div>
                 </div><!-- end col -->
 
@@ -152,7 +155,7 @@
 				
                 <div class="col-md-6 col-xs-12">
 					<div class="why-img-box">
-						<img src="vistas/images/why-img-02.jpg" class="img-fluid" alt="" />
+						<img src="vistas/images/experiencia.png" class="img-fluid" alt="Experiencia" />
 					</div>
 				</div><!-- end col -->
             </div><!-- end how-its-work -->
