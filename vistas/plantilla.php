@@ -31,7 +31,7 @@
     <link rel="stylesheet" href="vistas/css/responsive.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="vistas/css/custom.css">
-	
+    <link rel="stylesheet"  href="vistas/css/icomoon.css">
 	<script src="vistas/js/modernizr.custom.79639.js"></script>
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -42,7 +42,6 @@
 	<script src="vistas/js/tippy.all.min.js"></script>
     <script src="vistas/js/custom.js"></script>
 	<script src="vistas/js/portfolio.js"></script>
-    <script src="vistas/css/icomoon.css"></script>
     <script src="vistas/js/hoverdir.js"></script>
 	<script src="vistas/js/jquery.ba-cond.min.js"></script>
 	<script src="vistas/js/jquery.slitslider.js"></script>
