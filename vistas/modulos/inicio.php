@@ -73,9 +73,7 @@
                 </div><!-- end col -->
                 
 			</div><!-- end row -->
-			
-			<hr class="hr1">
-			
+			<br>
 			<div class="row vission-and-mission">
 				<div class="col-md-12">
 					<ul class="nav nav-pills nav-justified" id="myTab" role="tablist">
@@ -85,17 +83,19 @@
 					<div class="tab-content">
 						<div class="tab-pane fade show active" id="tab_a">
 							<div class="box-inner-m">
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque tortor mi, eget mattis velit sagittis id. Duis ornare mauris eu eros interdum, vitae finibus arcu ultricies. Donec vitae felis eleifend, dignissim erat a, pretium diam. Donec eu massa odio. Suspendisse et ornare lacus, pharetra imperdiet ligula.</p>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque tortor mi, eget mattis velit sagittis id. Duis ornare mauris eu eros interdum, vitae finibus arcu ultricies. Donec vitae felis eleifend, dignissim erat a, pretium diam. Donec eu massa odio. Suspendisse et ornare lacus, pharetra imperdiet ligula...</p>
 							</div>
 						</div>
 						<div class="tab-pane fade" id="tab_b">
 							<div class="box-inner-m">
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque risus tortor, aliquam quis augue eu, tempus semper tellus. Nullam eu auctor lacus. Cras dapibus a eros sed lobortis. Phasellus dictum mattis nibh, pretium maximus ex eleifend quis. Quisque ac nisi blandit, sagittis nulla eu, volutpat nibh. Duis non mauris velit. Nulla ornare scelerisque ex, et ultrices</p>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque risus tortor, aliquam quis augue eu, tempus semper tellus. Nullam eu auctor lacus. Cras dapibus a eros sed lobortis. Phasellus dictum mattis nibh, pretium maximus ex eleifend quis. Quisque ac nisi blandit, sagittis nulla eu, volutpat nibh. Duis non mauris velit. Nulla ornare scelerisque ex, et ultrices...</p>
 							</div>
 						</div>
 					</div>
 				</div>				
 			</div>
+			<center><a href="nosotros" class="bttn-new" style="color: #000000;">Saber más</a></center>
 			
 			<hr class="hr1">
 			

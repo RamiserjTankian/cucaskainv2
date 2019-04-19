@@ -31,24 +31,26 @@
 					</ul>
 					<div class="tab-content">
 						<div class="tab-pane fade show active" id="tab_a">
+						<br><br>
+							<center><div class="col-md-12 col-xs-12">
+								<div class="why-img-box post-media wow fadeIn">
+									<img src="vistas/images/fumigacion.jpg" class="img-fluid" alt="Personal" />
+								</div>
+							</div><!-- end col --></center>
 							<div class="box-inner-m">
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque tortor mi, eget mattis velit sagittis id. Duis ornare mauris eu eros interdum, vitae finibus arcu ultricies. Donec vitae felis eleifend, dignissim erat a, pretium diam. Donec eu massa odio. Suspendisse et ornare lacus, pharetra imperdiet ligula.</p>
 							</div>
-							<center><div class="col-md-8 col-xs-8">
-								<div class="why-img-box post-media wow fadeIn">
-									<img src="vistas/images/mision.png" class="img-fluid" alt="Personal" />
-								</div>
-							</div><!-- end col --></center>
 						</div>
 						<div class="tab-pane fade" id="tab_b">
+						<br><br>
+							<center><div class="col-md-12 col-xs-12">
+								<div class="why-img-box post-media wow fadeIn">
+									<img src="vistas/images/naturaleza.jpg" class="img-fluid" alt="Personal" />
+								</div>
+							</div><!-- end col --></center>
 							<div class="box-inner-m">
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque risus tortor, aliquam quis augue eu, tempus semper tellus. Nullam eu auctor lacus. Cras dapibus a eros sed lobortis. Phasellus dictum mattis nibh, pretium maximus ex eleifend quis. Quisque ac nisi blandit, sagittis nulla eu, volutpat nibh. Duis non mauris velit. Nulla ornare scelerisque ex, et ultrices</p>
 							</div>
-							<center><div class="col-md-8 col-xs-8">
-								<div class="why-img-box post-media wow fadeIn">
-									<img src="vistas/images/vision.png" class="img-fluid" alt="Personal" />
-								</div>
-								</div><!-- end col --></center>
 						</div>
 					</div>
 				</div>				
