@@ -1,4 +1,4 @@
-    <div id="slider" class="sl-slider-wrapper">
+<div id="slider" class="sl-slider-wrapper">
 
 		<div class="sl-slider">
 		
@@ -108,7 +108,7 @@
 
 			<div class="seo-services row clearfix">
                 <div class="col-md-6 col-xs-12">
-					<div class="why-img-box">
+					<div class="why-img-box post-media wow fadeIn">
 						<img src="vistas/images/productos.png" class="img-fluid" alt="Productos" />
 					</div>
                 </div><!-- end col -->
@@ -130,13 +130,13 @@
                 </div><!-- end col -->
 				
                 <div class="col-md-6 col-xs-12">
-					<div class="why-img-box">
+					<div class="why-img-box post-media wow fadeIn">
 						<img src="vistas/images/personal.jpg" class="img-fluid" alt="Personal" />
 					</div>
 				</div><!-- end col -->
 
 				<div class="col-md-6 col-xs-12">
-					<div class="why-img-box">
+					<div class="why-img-box post-media wow fadeIn">
 						<img src="vistas/images/certificado.jpg" class="img-fluid" alt="Certificado" />
 					</div>
                 </div><!-- end col -->
@@ -158,7 +158,7 @@
                 </div><!-- end col -->
 				
                 <div class="col-md-6 col-xs-12">
-					<div class="why-img-box">
+					<div class="why-img-box post-media wow fadeIn">
 						<img src="vistas/images/experiencia.png" class="img-fluid" alt="Experiencia" />
 					</div>
 				</div><!-- end col -->
@@ -175,4 +175,4 @@
 				</div><!-- end title -->
             </div><!-- end row -->
         </div><!-- end container -->
-    </div><!-- end section -->
+</div><!-- end section -->
