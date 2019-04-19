@@ -31,7 +31,7 @@
     <link rel="stylesheet" href="vistas/css/responsive.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="vistas/css/custom.css">
-    <link rel="stylesheet"  href="vistas/css/icomoon.css">
+    <link rel="stylesheet" href="vistas/css/icomoon.css">
 	<script src="vistas/js/modernizr.custom.79639.js"></script>
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
