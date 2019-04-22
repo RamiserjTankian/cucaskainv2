@@ -8,15 +8,15 @@
     /* ==============================================
     Fixed menu
     =============================================== */
-    
-	$(window).on('scroll', function () {
-		if ($(window).scrollTop() > 50) {
-			$('.top-navbar').addClass('fixed-menu');
-		} else {
-			$('.top-navbar').removeClass('fixed-menu');
-		}
-	});
-	
+
+    $(window).on('scroll', function() {
+        if ($(window).scrollTop() > 50) {
+            $('.top-navbar').addClass('fixed-menu');
+        } else {
+            $('.top-navbar').removeClass('fixed-menu');
+        }
+    });
+
     /* ==============================================
     BACK TOP
     =============================================== */
@@ -31,21 +31,21 @@
             });
         }
     });
-	
-	 /* ==============================================
+
+    /* ==============================================
 	Add Class -->
 	=============================================== */
-	$(document).ready(function() {
+    $(document).ready(function() {
 
-		$('.collapse').on('shown.bs.collapse', function () {
-			$(this).parent().addClass('active');
-		});
+        $('.collapse').on('shown.bs.collapse', function() {
+            $(this).parent().addClass('active');
+        });
 
-		$('.collapse').on('hidden.bs.collapse', function () {
-			$(this).parent().removeClass('active');
-		});
+        $('.collapse').on('hidden.bs.collapse', function() {
+            $(this).parent().removeClass('active');
+        });
 
-	});
+    });
 
     /* ==============================================
     LOADER -->
@@ -55,32 +55,32 @@
         $("#preloader").on(500).fadeOut();
         $(".preloader").on(600).fadeOut("slow");
     });
-	
-	/* ==============================================
-		Scroll to top  
-	============================================== */
-		
-	if ($('#scroll-to-top').length) {
-		var scrollTrigger = 100, // px
-			backToTop = function () {
-				var scrollTop = $(window).scrollTop();
-				if (scrollTop > scrollTrigger) {
-					$('#scroll-to-top').addClass('show');
-				} else {
-					$('#scroll-to-top').removeClass('show');
-				}
-			};
-		backToTop();
-		$(window).on('scroll', function () {
-			backToTop();
-		});
-		$('#scroll-to-top').on('click', function (e) {
-			e.preventDefault();
-			$('html,body').animate({
-				scrollTop: 0
-			}, 700);
-		});
-	}
+
+    /* ==============================================
+    	Scroll to top  
+    ============================================== */
+
+    if ($('#scroll-to-top').length) {
+        var scrollTrigger = 100, // px
+            backToTop = function() {
+                var scrollTop = $(window).scrollTop();
+                if (scrollTop > scrollTrigger) {
+                    $('#scroll-to-top').addClass('show');
+                } else {
+                    $('#scroll-to-top').removeClass('show');
+                }
+            };
+        backToTop();
+        $(window).on('scroll', function() {
+            backToTop();
+        });
+        $('#scroll-to-top').on('click', function(e) {
+            e.preventDefault();
+            $('html,body').animate({
+                scrollTop: 0
+            }, 700);
+        });
+    }
 
     /* ==============================================
      FUN FACTS -->
@@ -119,7 +119,7 @@
             $("#message").slideUp(750, function() {
                 $('#message').hide();
                 $('#submit')
-                    .after('<img src="images/ajax-loader.gif" class="loader" />')
+                    .after('<img src="vistas/images/ajax-loader.gif" class="loader" />')
                     .attr('disabled', 'disabled');
                 $.post(action, {
                         first_name: $('#first_name').val(),
@@ -146,12 +146,12 @@
         });
     });
 
-	/* ==============================================
+    /* ==============================================
     BACK TOP
     =============================================== */
-	
-	
-	
+
+
+
     /* ==============================================
      CODE WRAPPER -->
      =============================================== */
