@@ -13,11 +13,7 @@ $first_name     = $_POST['first_name'];
 $last_name     = $_POST['last_name'];
 $email    = $_POST['email'];
 $phone   = $_POST['phone'];
-$select_price   = $_POST['select_price'];
-$select_service   = $_POST['select_service'];
-$subject  = $_POST['subject'];
 $comments = $_POST['comments'];
-$verify   = $_POST['verify'];
 
 if(trim($first_name) == '') {
 	echo '<div class="error_message">Attention! You must enter your name.</div>';
@@ -60,7 +56,7 @@ $e_subject = 'You\'ve been contacted by ' . $first_name . '.';
 // You can change this if you feel that you need to.
 // Developers, you may wish to add more fields to the form, in which case you must be sure to add them here.
 
-$e_body = "You have been contacted by $first_name. $first_name selected service of $select_service, their additional message is as follows. Customer max budge is $select_price, for this project." . PHP_EOL . PHP_EOL;
+$e_body = "You have been contacted by $first_name. $first_name selected service of , their additional message is as follows. Customer max budge is , for this project." . PHP_EOL . PHP_EOL;
 $e_content = "\"$comments\"" . PHP_EOL . PHP_EOL;
 $e_reply = "You can contact $first_name via email, $email or via phone $phone";
 

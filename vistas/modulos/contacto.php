@@ -15,7 +15,7 @@
     <div class="col-md-8 offset-md-2">
         <div class="contact_form" style="border-radius: 2.5rem;background-color:#ff5e00;">
             <div id="message"></div>
-                <form id="contactform" action="contact.php" name="contactform" method="post">
+                <form id="contactform" action="contact" name="contactform" method="post">
                     <fieldset class="row">
                         <div class="col-lg-12 col-md-12 col-sm-6">
                             <input type="text" name="first_name" id="first_name" class="form-control" placeholder="Nombre">
