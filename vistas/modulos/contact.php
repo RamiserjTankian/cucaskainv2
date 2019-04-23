@@ -71,14 +71,18 @@ $headers .= "Content-Transfer-Encoding: quoted-printable" . PHP_EOL;
 if(mail($address, $e_subject, $msg, $headers)) {
 
 	// Email has sent successfully, echo a success page.
-
-	echo "<fieldset>";
-	echo "<div id='success_page'>";
-	echo "<h1>Email Sent Successfully.</h1>";
-	echo "<p>Thank you <strong>$first_name</strong>, your message has been submitted to us.</p>";
-	echo "</div>";
-	echo "</fieldset>";
-
+	echo '<div id="slider" class="sl-slider-wrapper">
+	<div class="sl-slider">
+		<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+			<div class="sl-slide-inner">
+				<h2>EXITO!</h2>
+				<blockquote><p>Gracias '.$first_name.' tu mensaje fue recibido y te contactaremos pronto.</p>
+				<a href="inicio" class="bttn-new">Volver al Inicio</a>
+				</blockquote>
+			</div>
+		</div>
+	</div>
+</div>';
 } else {
 
 	echo 'ERROR!';
