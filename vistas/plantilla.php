@@ -142,6 +142,6 @@ if (isset($_GET["ruta"])) {
 		
 		<script>
 			tippy('.btn-a')
-		</script>
+        </script>
 </body>
 </html>
