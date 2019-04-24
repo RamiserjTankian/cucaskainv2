@@ -2976,18 +2976,26 @@ body.seo_version .footer-links a:hover {
     display: inline-block;
     color: #ffffff;
     background: #000000;
-    padding: 10px 20px;
+    padding: 10px 15px;
     text-decoration: none;
     -webkit-transition: all 500ms ease;
     -o-transition: all 500ms ease;
     transition: all 500ms ease;
 }
 
-.social ul li .icon-facebook{background:#3b5998;}
-.social ul li .icon-whatsapp{background:#22d312;}
-.social ul li .icon-envelop{background:#000000;}
+.social ul li .icon-facebook{
+    background:#3b5998;
+    border-top-left-radius: 1rem;
+}
+.social ul li .icon-whatsapp{
+    background:#22d312;
+}
+.social ul li .icon-envelop{
+    background:#000000;
+    border-bottom-left-radius: 1rem;
+}
 
 .social ul li a:hover{
-    padding: 10px 20px;
+    padding: 10px 15px;
     background: #ff5e00;
 }
