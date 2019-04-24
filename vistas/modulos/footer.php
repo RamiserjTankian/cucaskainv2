@@ -7,5 +7,11 @@
             </div>
         </div><!-- end container -->
 </div><!-- end copyrights -->
-
+<div class="social">
+<ul>
+	<li><a href="https://m.me/Esteban.Yrazoqui" class="icon icon-facebook" target="_blank"></a></li>
+    <li><a href="https://wa.me/528116114883?text=Hola%20esto%20es%20una%20prueba" class="icon icon-whatsapp" target="_blank"></a></li>
+    <li><a href="mailto:estebanyrazoqui@gmail.com" class="icon icon-envelop" target="_blank"></a></li>
+</ul>
+</div>
 <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>

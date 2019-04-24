@@ -2963,8 +2963,8 @@ body.seo_version .footer-links a:hover {
 
 .social{
     position: fixed;
-    left: 0;
-    top: 200px;
+    right: 0;
+    top: 350px;
     z-index: 2000;
 }
 
@@ -2976,7 +2976,7 @@ body.seo_version .footer-links a:hover {
     display: inline-block;
     color: #ffffff;
     background: #000000;
-    padding: 10px 15px;
+    padding: 10px 20px;
     text-decoration: none;
     -webkit-transition: all 500ms ease;
     -o-transition: all 500ms ease;
@@ -2984,9 +2984,10 @@ body.seo_version .footer-links a:hover {
 }
 
 .social ul li .icon-facebook{background:#3b5998;}
-.social ul li .icon-whatsapp{background:#3b5998;}
+.social ul li .icon-whatsapp{background:#22d312;}
+.social ul li .icon-envelop{background:#000000;}
 
 .social ul li a:hover{
-    padding: 10px 30px;
-    background: #000000;
+    padding: 10px 20px;
+    background: #ff5e00;
 }

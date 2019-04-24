@@ -171,12 +171,6 @@
 				<h3>Contáctanos para más información...</h3>
 				<br><br>
 				<a href="contacto" class="bttn-new" style="color: #000000;">Saber más</a>
-				<div class="social">
-					<ul>
-						<li><a href="https://m.me/Esteban.Yrazoqui" class="icon icon-facebook" target="_blank"></a></li>
-						<li><a href="https://wa.me/528116114883?text=Prueba%20prueba%20prueba" class="icon icon-whatsapp" target="_blank"></a></li>
-					</ul>
-				</div>
 			</div><!-- end title -->
         </div><!-- end row -->
     </div><!-- end container -->
