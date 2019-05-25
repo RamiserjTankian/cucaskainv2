@@ -6,7 +6,7 @@
 				<div class="sl-slide-inner">
 					<div class="bg-img bg-img-1"></div>
 					<h2>¿Quiénes somos?</h2>
-					<blockquote><p>Cucas Kain es una empresa líder en el control y eliminación de plagas como lo son ratas, ratones, cucarachas, termitas, garrapatas, mosquitos, arañas, entre otros tipo de plagas...</p>
+					<blockquote><p>Cucas Kain es una empresa destacada en el control y eliminación de plagas como lo son ratas, ratones, cucarachas, termitas, garrapatas, mosquitos, arañas, entre otros tipo de plagas...</p>
 					<a href="nosotros" class="bttn-new">Saber más</a>
 					</blockquote>
 				</div>
@@ -55,18 +55,16 @@
     <div id="about" class="section wb nopadtop">
         <div class="container">
             <div class="row">
-				<div class="col-md-6 m40">
-                    <div class="message-box">
+				<div class="col-md-8 m40">
+				<div class="message-box">
                         <center><h2>¡Bienvenido a Cucas Kain!</h2></center>
 						<br>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis illum architecto aut dolor ipsa modi provident alias nostrum labore. Est fugiat obcaecati cumque facere. Magni minima saepe rerum nam error!</p>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quam, ducimus laudantium repellendus maxime quae quos ipsa! Fuga quidem blanditiis sint, quibusdam tenetur voluptatibus nisi, nostrum odio aliquam, architecto provident?</p>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quam, ducimus laudantium repellendus maxime quae quos ipsa! Fuga quidem blanditiis sint, quibusdam tenetur voluptatibus nisi, nostrum odio aliquam, architecto provident?</p>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus quam, ducimus laudantium repellendus maxime quae quos ipsa! Fuga quidem blanditiis sint, quibusdam tenetur voluptatibus nisi, nostrum odio aliquam, architecto provident?</p>
+                        <p>Nuestra empresa es orgullosamente regiomontana, somos especialistastas en el control y exterminación de plagas comúnes brindando nuestros servicios de calidad a zonas industrial, comercial, residencial, centros comerciales, salud y hotelera.</p>
+						<p>La creacion de esta empresa y nuestros servicios fue en el 2008, con el objetivo y la firme convicción de brindar a nuestros clientes la mejor atención y un servicio eficiente para darle una mejor calidad de vida a las personas que trabajan o viven en las zonas expuestas a las plagas comúnes.</p>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
 				
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="post-media wow fadeIn">
                         <img src="vistas/images/logo-cucas-kain.png" alt="Logo" class="img-fluid">
                     </div><!-- end media -->
@@ -83,12 +81,12 @@
 					<div class="tab-content">
 						<div class="tab-pane fade show active" id="tab_a">
 							<div class="box-inner-m">
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque tortor mi, eget mattis velit sagittis id. Duis ornare mauris eu eros interdum, vitae finibus arcu ultricies. Donec vitae felis eleifend, dignissim erat a, pretium diam. Donec eu massa odio. Suspendisse et ornare lacus, pharetra imperdiet ligula...</p>
+								<p>Ser proveedores del mejor servicio para el control de plagas brindando un precio competitivo, apoyándonos con productos...</p>
 							</div>
 						</div>
 						<div class="tab-pane fade" id="tab_b">
 							<div class="box-inner-m">
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque risus tortor, aliquam quis augue eu, tempus semper tellus. Nullam eu auctor lacus. Cras dapibus a eros sed lobortis. Phasellus dictum mattis nibh, pretium maximus ex eleifend quis. Quisque ac nisi blandit, sagittis nulla eu, volutpat nibh. Duis non mauris velit. Nulla ornare scelerisque ex, et ultrices...</p>
+								<p>Nuestro ideal es ser la empresa líder en la rama del control de plagas, conservando siempre estándares de calidad...</p>
 							</div>
 						</div>
 					</div>
@@ -100,7 +98,7 @@
 			
 			<div class="section-title text-center">               
                 <h3>¿Por qué elegirnos?</h3>
-                <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, ipsam earum alias voluptatem amet pariatur, ratione hic consequuntur eveniet officia, sunt quia non dolores voluptates cumque vero blanditiis voluptas natus?</p>
+                <p class="lead">Los servicios que ofrece Cucas Kain son altamente controlados por nuestro personal capacitado, así mismo los productos...</p>
             </div><!-- end title -->
 			
 			<hr class="hr1">
@@ -115,7 +113,7 @@
                 <div class="col-md-6 col-xs-12">
 					<div class="why-dit">
 						<h4>Productos de calidad</h4>
-						<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis maiores ipsam blanditiis adipisci facilis alias eius hic omnis eaque, laudantium eos sint quia, architecto, vitae nostrum at non veritatis? Nesciunt.</p>
+						<p>Los productos que manejamos en Cucas Kain cumplen los estandares que avalan que no son dañinos para la salud...</p>
 						<a href="servicios" class="bttn-new" style="color: #000000;">Saber más</a>
 					</div>
                 </div><!-- end col -->
@@ -123,7 +121,7 @@
 				<div class="col-md-6 col-xs-12">
 					<div class="why-dit">
 						<h4>Personal capacitado</h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, distinctio possimus amet perferendis voluptates consequatur placeat nam tempore doloribus quia ipsam, maiores vitae est totam fugit hic dolorem. Esse, quam?</p>
+						<p>El personal capacitado de Cucas Kain son profesionales expertos en la materia...</p>
 						<a href="servicios" class="bttn-new" style="color: #000000;">Saber más</a>
 					</div>
                 </div><!-- end col -->
@@ -143,7 +141,7 @@
                 <div class="col-md-6 col-xs-12">
 					<div class="why-dit">
 						<h4>Certificado de salubridad</h4>
-						<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis maiores ipsam blanditiis adipisci facilis alias eius hic omnis eaque, laudantium eos sint quia, architecto, vitae nostrum at non veritatis? Nesciunt.</p>
+						<p>Contamos con certificados de salubridad que avalan nuestro control total sobre la aplicacion de los productos sin causa daños a terceros...</p>
 						<a href="servicios" class="bttn-new" style="color: #000000;">Saber más</a>
 					</div>
 				</div><!-- end col -->
@@ -151,7 +149,7 @@
 				<div class="col-md-6 col-xs-12">
 					<div class="why-dit">
 						<h4>Experiencia</h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, distinctio possimus amet perferendis voluptates consequatur placeat nam tempore doloribus quia ipsam, maiores vitae est totam fugit hic dolorem. Esse, quam?</p>
+						<p>Somos una empresa con más de 10 años de experiencia en el control de plagas comúnes...</p>
 						<a href="servicios" class="bttn-new" style="color: #000000;">Saber más</a>
 					</div>
                 </div><!-- end col -->

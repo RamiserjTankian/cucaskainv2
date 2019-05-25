@@ -1,10 +1,23 @@
+<div id="slider" class="sl-slider-wrapper">
+    <div class="sl-slider">
+        <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
+	        <div class="sl-slide-inner">
+		        <div class="bg-img bg-img-2"></div>
+			        <h2>Servicios</h2>
+			        <blockquote><p>Los servicios que ofrece Cucas Kain son altamente controlados por nuestro personal capacitado, así mismo los productos que se utilizan son de alta calidad y no son dañinos para salud...</p></blockquote>
+		        </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div id="services" class="section lb">
         <div class="container-fluid">
 			<div class="container">
 				<div class="row">
 					<div class="section-title text-center">
-						<h3>Servicios</h3>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum quod nemo ipsam eos quae dolorum possimus nesciunt aliquid nihil tenetur, sint ullam, deleniti ea sequi cupiditate eum! Dolores, dicta dolor.</p>
+						<h3>Cucas Kain</h3>
+						<p>La empresa ofrece distintos servicios de acuerdo a las necesidades que presenten nuestros clientes, contamos con una alta gama de metodos para el control de plagas comúnes dentro de espacios pequeños asi como grandes...</p>
 					</div><!-- end title -->
 				</div>
 				<div class="row">
@@ -15,7 +28,7 @@
 									<h5 class="mb-0">
 										<a data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
 											Residencial
-											<i class="fa fa-bullseye" aria-hidden="true"></i>
+											<i class="fas fa-spider"></i>
 										</a>
 									</h5>
 								</div>
@@ -23,14 +36,11 @@
 									<div class="card-body">
 										<div class="inner-acc">
 											<p>Utilizamos productos amigables con el medio ambiente asi como con los seres humanos y sus mascotas.</p>
-											<ul>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> In bibendum ante at blandit egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Nullam in urna vulputate, aliquet dui in, consequat mi.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Cras tempor orci at eros faucibus egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Vivamus sollicitudin nulla vitae malesuada fringilla.</li>
-											</ul>
-											<i class="fa fa-bullseye" aria-hidden="true"></i>
+											<div class="col-md-10">
+												<div class="post-media wow fadeIn">
+													<img src="vistas/images/residencial.jpg" alt="Logo" class="img-fluid">
+												</div><!-- end media -->
+											</div><!-- end col -->
 										</div>
 									</div>
 								</div>
@@ -40,7 +50,7 @@
 									<h5 class="mb-0">
 										<a class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 											Industrial
-											<i class="fa fa-bullseye" aria-hidden="true"></i>
+											<i class="fas fa-spider"></i>
 										</a>
 									</h5>
 								</div>
@@ -48,14 +58,11 @@
 									<div class="card-body">
 										<div class="inner-acc">
 											<p>Nuestros procedimientos, equipos de aplicación, personal calificado y conocimiento del área nos permite diseñar un programa de manejo integrado de plagas de acuerdo a las exigencias de cada industria, cumpliendo con la papelería necesaria para cualquier auditoría.</p>
-											<ul>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> In bibendum ante at blandit egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Nullam in urna vulputate, aliquet dui in, consequat mi.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Cras tempor orci at eros faucibus egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Vivamus sollicitudin nulla vitae malesuada fringilla.</li>
-											</ul>
-											<i class="fa fa-bullseye" aria-hidden="true"></i>
+											<div class="col-md-10">
+												<div class="post-media wow fadeIn">
+													<img src="vistas/images/industrial.jpg" alt="Logo" class="img-fluid">
+												</div><!-- end media -->
+											</div><!-- end col -->
 										</div>
 									</div>
 								</div>
@@ -65,7 +72,7 @@
 									<h5 class="mb-0">
 										<a class="collapsed" data-toggle="collapse" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
 											Comercial
-											<i class="fa fa-bullseye" aria-hidden="true"></i>
+											<i class="fas fa-spider"></i>
 										</a>
 									</h5>
 								</div>
@@ -73,14 +80,11 @@
 									<div class="card-body">
 										<div class="inner-acc">
 											<p>Nos preocupamos por la reputación de tu negocio, y nuestra experiencia nos permite eliminar y controlar cualquier tipo de plaga en su establecimiento.</p>
-											<ul>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> In bibendum ante at blandit egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Nullam in urna vulputate, aliquet dui in, consequat mi.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Cras tempor orci at eros faucibus egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Vivamus sollicitudin nulla vitae malesuada fringilla.</li>
-											</ul>
-											</i><i class="fa fa-bullseye" aria-hidden="true"></i>
+											<div class="col-md-10">
+												<div class="post-media wow fadeIn">
+													<img src="vistas/images/comercial.jpg" alt="Logo" class="img-fluid">
+												</div><!-- end media -->
+											</div><!-- end col -->
 										</div>
 									</div>
 								</div>
@@ -90,7 +94,7 @@
 									<h5 class="mb-0">
 										<a class="collapsed" data-toggle="collapse" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
 											Hotelero
-											<i class="fa fa-bullseye" aria-hidden="true"></i>
+											<i class="fas fa-spider"></i>
 										</a>
 									</h5>
 								</div>
@@ -98,14 +102,11 @@
 									<div class="card-body">
 										<div class="inner-acc">
 											<p>Mantenemos las instalaciones libres de cualquier tipo de plaga apoyándonos con productos de calidad y personal capacitado para esta área.</p>
-											<ul>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> In bibendum ante at blandit egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Nullam in urna vulputate, aliquet dui in, consequat mi.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Cras tempor orci at eros faucibus egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Vivamus sollicitudin nulla vitae malesuada fringilla.</li>
-											</ul>
-											<i class="fa fa-bullseye" aria-hidden="true"></i>
+											<div class="col-md-10">
+												<div class="post-media wow fadeIn">
+													<img src="vistas/images/hotelero.jpg" alt="Logo" class="img-fluid">
+												</div><!-- end media -->
+											</div><!-- end col -->
 										</div>
 									</div>
 								</div>
@@ -115,7 +116,7 @@
 									<h5 class="mb-0">
 										<a class="collapsed" data-toggle="collapse" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
 											Salud
-											<i class="fa fa-bullseye" aria-hidden="true"></i>
+											<i class="fas fa-spider"></i>
 										</a>
 									</h5>
 								</div>
@@ -123,14 +124,11 @@
 									<div class="card-body">
 										<div class="inner-acc">
 											<p>Tecnicos altamente capacitados y aplicaciones con productos de la más alta calidad permitidos en esta área.</p>
-											<ul>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> In bibendum ante at blandit egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Nullam in urna vulputate, aliquet dui in, consequat mi.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Cras tempor orci at eros faucibus egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Vivamus sollicitudin nulla vitae malesuada fringilla.</li>
-											</ul>
-											<i class="fa fa-bullseye" aria-hidden="true"></i>
+											<div class="col-md-10">
+												<div class="post-media wow fadeIn">
+													<img src="vistas/images/salud.jpg" alt="Logo" class="img-fluid">
+												</div><!-- end media -->
+											</div><!-- end col -->
 										</div>
 									</div>
 								</div>
@@ -139,7 +137,7 @@
 									<h5 class="mb-0">
 										<a class="collapsed" data-toggle="collapse" href="#collapseSix" aria-expanded="false" aria-controls="collapseFive">
 											Plazas comerciales
-											<i class="fa fa-bullseye" aria-hidden="true"></i>
+											<i class="fas fa-spider"></i>
 										</a>
 									</h5>
 								</div>
@@ -147,14 +145,11 @@
 									<div class="card-body">
 										<div class="inner-acc">
 											<p>Creamos programas permantentes para mantener libre de insectos y roedores sus áreas e instalaciones.</p>
-											<ul>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> In bibendum ante at blandit egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Nullam in urna vulputate, aliquet dui in, consequat mi.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Cras tempor orci at eros faucibus egestas.</li>
-												<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Vivamus sollicitudin nulla vitae malesuada fringilla.</li>
-											</ul>
-											<i class="fa fa-bullseye" aria-hidden="true"></i>
+											<div class="col-md-10">
+												<div class="post-media wow fadeIn">
+													<img src="vistas/images/plazas-comerciales.png" alt="Logo" class="img-fluid">
+												</div><!-- end media -->
+											</div><!-- end col -->
 										</div>
 									</div>
 								</div>
