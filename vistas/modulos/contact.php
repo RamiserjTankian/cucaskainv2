@@ -56,9 +56,9 @@ $e_subject = 'You\'ve been contacted by ' . $first_name . '.';
 // You can change this if you feel that you need to.
 // Developers, you may wish to add more fields to the form, in which case you must be sure to add them here.
 
-$e_body = "You have been contacted by $first_name. $first_name selected service of , their additional message is as follows. Customer max budge is , for this project." . PHP_EOL . PHP_EOL;
+$e_body = "Fuiste contactado por: $first_name. $first_name" . PHP_EOL . PHP_EOL;
 $e_content = "\"$comments\"" . PHP_EOL . PHP_EOL;
-$e_reply = "You can contact $first_name via email, $email or via phone $phone";
+$e_reply = "Podras contactarlo de vuelta con su nombre $first_name o via email, $email o via telefono $phone";
 
 $msg = wordwrap( $e_body . $e_content . $e_reply, 70 );
 
@@ -75,6 +75,7 @@ if(mail($address, $e_subject, $msg, $headers)) {
 	<div class="sl-slider">
 		<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
 			<div class="sl-slide-inner">
+				<div class="bg-img bg-img-1"></div>
 				<h2>EXITO!</h2>
 				<blockquote><p>Gracias '.$first_name.' tu mensaje fue recibido y te contactaremos pronto.</p>
 				<a href="inicio" class="bttn-new">Volver al Inicio</a>
