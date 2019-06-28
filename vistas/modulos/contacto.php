@@ -55,14 +55,14 @@
                     <i class="fas fa-mail-bulk"></i>
 				</div>					
                 <h3>Correo</h3>
-				<p>cucaskain@contacto.com</p>
+				<p>cucaskain.fumigaciones@gmail.com</p>
 			</div>
 			<div class="address-item">
 				<div class="address-icon">
                     <i class="fas fa-phone"></i>
 				</div>
 				<h3>Télefono</h3>
-				<p>+9999999999</p>
+				<p>+52 8119416169</p>
 			</div>
 		</div>
 	</div><!-- end row -->
